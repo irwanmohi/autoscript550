@@ -111,7 +111,11 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 <b>Licensed under the terms of the ( GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 )</b>
 
 ## ⏩ Installation ⏪
+<b> Using Bash & Wget </b>
 > rm -f setup.sh && apt-get update -y && apt-get upgrade -y && apt install screen zip ftp bzip2 gzip coreutils wget curl neofetch -y && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
+
+<b> Using Perl & Wget </b>
+> rm -f setup.pl && apt update -y && apt upgrade -y && apt install perl -y && wget https://github.com/wildysheverando-project/autoscript.github.io/blob/main/setup.pl && perl setup.pl
 
 ## 🔱 PREMIUM USER 🔱
 ▶ For Upgrade To Premium User , Contact Me :<br>
