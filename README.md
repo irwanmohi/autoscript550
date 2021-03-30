@@ -118,22 +118,22 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 > rm -f setup.sh && apt-get update -y && apt-get upgrade -y && apt install screen zip ftp bzip2 gzip coreutils wget curl neofetch -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.sh > setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
 
 <b> Using Perl & Wget </b>
-> rm -f setup.pl && apt update -y && apt upgrade -y && apt install perl wget -y && wget https://github.com/wildysheverando-project/autoscript.github.io/blob/main/setup.pl && perl setup.pl
+> rm -f setup.pl && apt update -y && apt upgrade -y && apt install perl wget -y && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.pl && perl setup.pl
  
 <b> Using Perl & Curl </b>
-> rm -f setup.pl && apt update -y && apt upgrade -y && apt install perl curl -y && curl https://github.com/wildysheverando-project/autoscript.github.io/blob/main/setup.pl > setup.pl && perl setup.pl
+> rm -f setup.pl && apt update -y && apt upgrade -y && apt install perl curl -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.pl > setup.pl && perl setup.pl
 
 <b> Using Python2 & Wget </b>
-> rm -f setup.py && apt update -y && apt upgrade -y && apt install python wget -y && wget https://github.com/wildysheverando-project/autoscript.github.io/blob/main/setup.py && python setup.py
+> rm -f setup.py && apt update -y && apt upgrade -y && apt install python wget -y && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py && python setup.py
 
 <b> Using Python2 & Curl </b>
-> rm -f setup.py && apt update -y && apt upgrade -y && apt install python curl -y && curl https://github.com/wildysheverando-project/autoscript.github.io/blob/main/setup.py > setup.py && pytyhon setup.py
+> rm -f setup.py && apt update -y && apt upgrade -y && apt install python curl -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py > setup.py && pytyhon setup.py
 
 <b> Using Python3 & Wget </b>
-> rm -f setup.py && apt update -y && apt upgrade -y && apt install python3 wget -y && wget https://github.com/wildysheverando-project/autoscript.github.io/blob/main/setup.py && python3 setup.py
+> rm -f setup.py && apt update -y && apt upgrade -y && apt install python3 wget -y && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py && python3 setup.py
 
 <b> Using Python3 & Curl </b>
-> rm -f setup.py && apt update -y && apt upgrade -y && apt install python3 curl -y && curl https://github.com/wildysheverando-project/autoscript.github.io/blob/main/setup.py > setup.py && pytyhon3 setup.py
+> rm -f setup.py && apt update -y && apt upgrade -y && apt install python3 curl -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py > setup.py && pytyhon3 setup.py
 
 ## 🔱 PREMIUM USER 🔱
 ▶ For Upgrade To Premium User , Contact Me :<br>
