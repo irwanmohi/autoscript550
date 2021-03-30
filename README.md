@@ -26,10 +26,10 @@ Addons Service
 
 ## ❗ OS Supported ❗
 <b>
-✔ Debian 8 (X86_64) (X86) (X64)<br>
+✔ Debian 8 (X86_64) (X86) (X64) ( Good For V2Ray & Trojan )<br>
 ✔ Debian 9 (X86_64) (X86) (X64) ( Recomed )<br>
 ✔ Debian 10 (X86_64) (X86) (X64) ( Recomed )<br>
-✔ Ubuntu 16.04 (X86_64) (X86) (X64)<br>
+✔ Ubuntu 16.04 (X86_64) (X86) (X64) ( Good For V2Ray & Trojan )<br>
 ✔ Ubuntu 18.04 (X86_64) (X86) (X64) ( Recomed )<br>
 ✔ Ubuntu 20.04 (X86_64) (X86) (X64)<br>
 ✔ Ubuntu 20.10 (X86_64) (X86) (X64) ( V2Ray Not Stable )<br>
