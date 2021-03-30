@@ -31,7 +31,7 @@ Addons Service
 ✔ Debian 10 (X86_64) (X86) (X64) ( Recomed )<br>
 ✔ Ubuntu 16.04 (X86_64) (X86) (X64) ( Good For V2Ray & Trojan )<br>
 ✔ Ubuntu 18.04 (X86_64) (X86) (X64) ( Recomed )<br>
-✔ Ubuntu 20.04 (X86_64) (X86) (X64)<br>
+✔ Ubuntu 20.04 (X86_64) (X86) (X64) ( Trojan & Stunnel Not Stable )<br>
 ✔ Ubuntu 20.10 (X86_64) (X86) (X64) ( V2Ray Not Stable )<br>
 ❌ Centos 6 ( Not Supported )<br>
 ❌ Centos 7 ( Not Supported )<br>
