@@ -120,8 +120,20 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 <b> Using Perl & Wget </b>
 > rm -f setup.pl && apt update -y && apt upgrade -y && apt install perl -y && wget https://github.com/wildysheverando-project/autoscript.github.io/blob/main/setup.pl && perl setup.pl
  
-<b> Using Perl & Wget </b>
+<b> Using Perl & Curl </b>
 > rm -f setup.pl && apt update -y && apt upgrade -y && apt install perl -y && curl https://github.com/wildysheverando-project/autoscript.github.io/blob/main/setup.pl > setup.pl && perl setup.pl
+
+<b> Using Python2 & Wget </b>
+> rm -f setup.py && apt update -y && apt upgrade -y && apt install python -y && wget https://github.com/wildysheverando-project/autoscript.github.io/blob/main/setup.py && python setup.py
+
+<b> Using Python2 & Curl </b>
+> rm -f setup.pl && apt update -y && apt upgrade -y && apt install python -y && curl https://github.com/wildysheverando-project/autoscript.github.io/blob/main/setup.py > setup.py && pytyhon setup.py
+
+<b> Using Python3 & Wget </b>
+> rm -f setup.py && apt update -y && apt upgrade -y && apt install python3 -y && wget https://github.com/wildysheverando-project/autoscript.github.io/blob/main/setup.py && python3 setup.py
+
+<b> Using Python3 & Curl </b>
+> rm -f setup.pl && apt update -y && apt upgrade -y && apt install python3 -y && curl https://github.com/wildysheverando-project/autoscript.github.io/blob/main/setup.py > setup.py && pytyhon3 setup.py
 
 ## 🔱 PREMIUM USER 🔱
 ▶ For Upgrade To Premium User , Contact Me :<br>
