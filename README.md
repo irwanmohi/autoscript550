@@ -123,7 +123,7 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 <b>If you want to help develop this project, you can donate as sincere as possible</b>
 <br>
 <b>
-▶ Paypal : paypal.me/wildyvpnscript<br>
+▶ Paypal : paypal.me/wildyvpnscript / Email : wildynetwork@gmail.com<br>
 ▶ Dana   : 0858-3087-8000<br>
 </b>
 
