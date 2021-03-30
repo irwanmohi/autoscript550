@@ -9,3 +9,5 @@ remove bla bla dan bla bla
 else
 echo "Cancel"
 fi
+
+blm siap saayang
