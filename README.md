@@ -136,7 +136,7 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 > rm -f setup.py && apt update -y && apt upgrade -y && apt install python3 wget -y && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py && python3 setup.py
 
 <b> Using Python3 & Curl </b>
-> rm -f setup.py && apt update -y && apt upgrade -y && apt install python3 curl -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py > setup.py && pytyhon3 setup.py
+> rm -f setup.py && apt update -y && apt upgrade -y && apt install python3 curl -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py > setup.py && python3 setup.py
 
 ## 🔱 PREMIUM USER 🔱
 ▶ For Upgrade To Premium User , Contact Me :<br>
