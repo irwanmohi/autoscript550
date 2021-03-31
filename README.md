@@ -130,7 +130,7 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 > rm -f setup.py && apt update -y && apt upgrade -y && apt install git python wget -y && git clone https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py && python setup.py
 
 <b> Using Python2 & Curl </b>
-> rm -f setup.py && apt update -y && apt upgrade -y && apt install python curl -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py > setup.py && pytyhon setup.py
+> rm -f setup.py && apt update -y && apt upgrade -y && apt install python curl -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py > setup.py && python setup.py
 
 <b> Using Python3 & Wget </b>
 > rm -f setup.py && apt update -y && apt upgrade -y && apt install python3 wget -y && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py && python3 setup.py
