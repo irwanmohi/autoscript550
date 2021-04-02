@@ -1,0 +1,97 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=ID, ST=Riau, L=Bagansiapiapi, O=wildysheverando, OU=wildysheverando, CN=wildysheverando CA/name=wildysheverando/emailAddress=wildyverando.net@gmail.com
+        Validity
+            Not Before: Apr  2 05:52:12 2021 GMT
+            Not After : Mar 31 05:52:12 2031 GMT
+        Subject: C=ID, ST=Riau, L=Bagansiapiapi, O=wildysheverando, OU=wildysheverando, CN=client/name=wildysheverando/emailAddress=wildyverando.net@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:a1:97:d3:7e:63:21:ba:64:cb:8b:be:f8:de:87:
+                    02:33:74:6e:fa:a3:92:f6:ec:3f:c4:77:62:68:cb:
+                    d1:76:d9:88:5b:e5:3a:4c:39:80:63:42:27:dd:2f:
+                    c3:40:41:8d:31:73:73:ce:31:21:03:e1:48:c4:7f:
+                    a1:77:6f:e3:26:ce:61:87:55:47:2e:5a:86:6a:5e:
+                    b1:18:b5:3c:d5:0b:1e:bc:14:0c:82:bd:71:89:13:
+                    49:0a:c4:a4:7c:cf:12:6f:37:26:f7:40:c9:72:3a:
+                    af:90:cb:94:dc:e6:7a:84:f7:1c:c2:57:d0:b7:9b:
+                    0b:63:95:87:14:b2:85:0f:11:a5:c8:07:ed:b5:6c:
+                    ab:7e:64:1d:69:70:d9:7e:79:88:7d:a3:61:93:ec:
+                    41:c7:3c:df:f2:f3:bd:da:ff:8c:e2:9b:bf:fe:44:
+                    80:b9:b4:2c:07:29:29:52:32:43:7c:55:59:47:53:
+                    6c:3e:e4:9e:8b:b5:ac:1b:3b:b2:3b:9a:bf:6a:82:
+                    91:a6:a5:5b:a8:b4:26:59:d1:ea:d5:2c:42:0e:b8:
+                    f0:96:21:17:9f:b8:7e:ad:46:4a:af:45:27:8f:62:
+                    51:67:52:1a:6f:c6:67:77:38:74:76:f5:84:69:6e:
+                    6b:17:a5:95:8c:4c:e1:73:e2:db:96:e3:08:8b:a4:
+                    91:7d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                D0:29:39:A4:E9:13:0F:23:2B:55:CA:5C:16:A9:6F:07:0E:67:3C:EB
+            X509v3 Authority Key Identifier: 
+                keyid:CE:1C:99:9A:8C:B0:86:1E:B5:93:69:8A:D9:7F:65:6D:74:DB:88:89
+                DirName:/C=ID/ST=Riau/L=Bagansiapiapi/O=wildysheverando/OU=wildysheverando/CN=wildysheverando CA/name=wildysheverando/emailAddress=wildyverando.net@gmail.com
+                serial:66:7E:F1:5D:84:B4:96:9F:E9:81:0B:C3:CD:0E:0C:BC:52:E9:BC:AF
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         98:8e:20:08:ed:9c:d1:54:39:4a:64:45:38:74:e2:88:99:c6:
+         72:c2:84:7b:1c:2f:93:f6:df:2d:bb:fc:12:4e:4f:5a:03:1a:
+         2f:ae:40:f5:4a:62:07:4f:ff:01:34:be:f0:6a:2e:2b:86:09:
+         49:fe:0a:10:11:52:f8:0e:67:71:04:43:7b:22:b2:39:dc:1b:
+         23:06:5f:1a:82:37:fc:b0:dd:b2:c9:91:5a:8b:60:77:65:20:
+         39:c8:49:67:65:ba:ab:61:e8:23:72:ce:27:7f:d3:08:28:d1:
+         fc:0c:ec:f4:be:0a:87:55:70:6a:f0:58:c3:a0:67:f6:49:da:
+         db:6f:1f:33:5d:a9:9b:6a:78:9b:7a:b7:2a:a7:ae:16:d3:da:
+         8c:82:88:b5:45:73:bd:fd:25:b4:5a:fa:58:cb:68:b3:3f:17:
+         b2:62:ad:43:7c:22:59:17:61:50:13:d0:c0:e1:b1:1c:ae:bb:
+         16:00:b4:84:96:ca:46:52:82:0a:3e:4c:5a:61:63:c5:30:ae:
+         76:0c:66:62:09:46:df:2d:16:39:a9:b5:3e:d2:1e:c9:6b:94:
+         44:b4:5d:36:eb:7d:bb:ef:5a:17:35:3f:b7:89:5a:d8:24:7e:
+         4c:f2:4b:3b:15:97:93:cf:57:fe:47:0b:15:59:3f:e4:6f:af:
+         b4:71:47:fb
+-----BEGIN CERTIFICATE-----
+MIIFlTCCBH2gAwIBAgIBAjANBgkqhkiG9w0BAQsFADCByjELMAkGA1UEBhMCSUQx
+DTALBgNVBAgTBFJpYXUxFjAUBgNVBAcTDUJhZ2Fuc2lhcGlhcGkxGDAWBgNVBAoT
+D3dpbGR5c2hldmVyYW5kbzEYMBYGA1UECxMPd2lsZHlzaGV2ZXJhbmRvMRswGQYD
+VQQDExJ3aWxkeXNoZXZlcmFuZG8gQ0ExGDAWBgNVBCkTD3dpbGR5c2hldmVyYW5k
+bzEpMCcGCSqGSIb3DQEJARYad2lsZHl2ZXJhbmRvLm5ldEBnbWFpbC5jb20wHhcN
+MjEwNDAyMDU1MjEyWhcNMzEwMzMxMDU1MjEyWjCBvjELMAkGA1UEBhMCSUQxDTAL
+BgNVBAgTBFJpYXUxFjAUBgNVBAcTDUJhZ2Fuc2lhcGlhcGkxGDAWBgNVBAoTD3dp
+bGR5c2hldmVyYW5kbzEYMBYGA1UECxMPd2lsZHlzaGV2ZXJhbmRvMQ8wDQYDVQQD
+EwZjbGllbnQxGDAWBgNVBCkTD3dpbGR5c2hldmVyYW5kbzEpMCcGCSqGSIb3DQEJ
+ARYad2lsZHl2ZXJhbmRvLm5ldEBnbWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQChl9N+YyG6ZMuLvvjehwIzdG76o5L27D/Ed2Joy9F22Yhb
+5TpMOYBjQifdL8NAQY0xc3POMSED4UjEf6F3b+MmzmGHVUcuWoZqXrEYtTzVCx68
+FAyCvXGJE0kKxKR8zxJvNyb3QMlyOq+Qy5Tc5nqE9xzCV9C3mwtjlYcUsoUPEaXI
+B+21bKt+ZB1pcNl+eYh9o2GT7EHHPN/y873a/4zim7/+RIC5tCwHKSlSMkN8VVlH
+U2w+5J6LtawbO7I7mr9qgpGmpVuotCZZ0erVLEIOuPCWIRefuH6tRkqvRSePYlFn
+Uhpvxmd3OHR29YRpbmsXpZWMTOFz4tuW4wiLpJF9AgMBAAGjggGOMIIBijAJBgNV
+HRMEAjAAMC0GCWCGSAGG+EIBDQQgFh5FYXN5LVJTQSBHZW5lcmF0ZWQgQ2VydGlm
+aWNhdGUwHQYDVR0OBBYEFNApOaTpEw8jK1XKXBapbwcOZzzrMIIBCwYDVR0jBIIB
+AjCB/4AUzhyZmoywhh61k2mK2X9lbXTbiImhgdCkgc0wgcoxCzAJBgNVBAYTAklE
+MQ0wCwYDVQQIEwRSaWF1MRYwFAYDVQQHEw1CYWdhbnNpYXBpYXBpMRgwFgYDVQQK
+Ew93aWxkeXNoZXZlcmFuZG8xGDAWBgNVBAsTD3dpbGR5c2hldmVyYW5kbzEbMBkG
+A1UEAxMSd2lsZHlzaGV2ZXJhbmRvIENBMRgwFgYDVQQpEw93aWxkeXNoZXZlcmFu
+ZG8xKTAnBgkqhkiG9w0BCQEWGndpbGR5dmVyYW5kby5uZXRAZ21haWwuY29tghRm
+fvFdhLSWn+mBC8PNDgy8Uum8rzATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNVHQ8E
+BAMCB4AwDQYJKoZIhvcNAQELBQADggEBAJiOIAjtnNFUOUpkRTh04oiZxnLChHsc
+L5P23y27/BJOT1oDGi+uQPVKYgdP/wE0vvBqLiuGCUn+ChARUvgOZ3EEQ3sisjnc
+GyMGXxqCN/yw3bLJkVqLYHdlIDnISWdluqth6CNyzid/0wgo0fwM7PS+CodVcGrw
+WMOgZ/ZJ2ttvHzNdqZtqeJt6tyqnrhbT2oyCiLVFc739JbRa+ljLaLM/F7JirUN8
+IlkXYVAT0MDhsRyuuxYAtISWykZSggo+TFphY8UwrnYMZmIJRt8tFjmptT7SHslr
+lES0XTbrfbvvWhc1P7eJWtgkfkzySzsVl5PPV/5HCxVZP+Rvr7RxR/s=
+-----END CERTIFICATE-----
