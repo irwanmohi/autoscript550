@@ -158,6 +158,15 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 <b> Using Python3 & Curl </b>
 > rm -f setup.py && apt update -y && apt upgrade -y && apt install python3 curl -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py > setup.py && python3 setup.py
 
+## ⏩ UPGRADE TO PREMIUM ⏪
+<b> Using Bash & Wget </b>
+> rm -f update.sh && apt-get update -y && apt-get upgrade -y && apt install screen zip ftp bzip2 gzip coreutils wget curl neofetch -y && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/update.sh
+ && chmod +x update.sh && screen -S setup ./update.sh
+
+<b> Using Bash & Curl </b>
+> rm -f update.sh && apt-get update -y && apt-get upgrade -y && apt install screen zip ftp bzip2 gzip coreutils wget curl neofetch -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/update.sh
+ > update.sh && chmod +x update.sh && screen -S update ./update.sh
+
 ## 🔱 LICENSE KEY 🔱
 <b>
 <h3>List Of License Key Price</h3>
