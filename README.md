@@ -162,6 +162,7 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 <b> Using Bash & Wget </b>
 > rm -f update.sh && apt-get update -y && apt-get upgrade -y && apt install screen zip ftp bzip2 gzip coreutils wget curl neofetch -y && wget -O update.sh https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/update.sh
  && chmod +x update.sh && screen -S update ./update.sh
+<br> 
 <b> Using Bash & Curl </b>
 > rm -f update.sh && apt-get update -y && apt-get upgrade -y && apt install screen zip ftp bzip2 gzip coreutils wget curl neofetch -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/update.sh > update.sh && chmod +x update.sh && screen -S update ./update.sh
 
