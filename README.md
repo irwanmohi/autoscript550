@@ -196,5 +196,3 @@ Email    = wildyverando.net@gmail.com<br>
 ▶ Paypal : paypal.me/wildyvpnscript / Email : wildynetwork@gmail.com<br>
 ▶ Dana   : 0858-3087-8000<br>
 </b>
-
-# © Copyright 2021 By WildySheverando
