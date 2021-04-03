@@ -82,7 +82,7 @@ Addons Service
 ✔ VLESS XTLS ( Not Stable ) ( Premium User ) <br>
 ✔ OpenVPN TCP ( Premium User )<br>
 ✔ OpenVPN UDP ( Premium User ) <br>
-✔ OpenVPN SSL ( Premium User ) <b>
+✔ OpenVPN SSL ( Premium User ) <br>
 ✔ Change Host / Domain For V2Ray / Trojan ( Premium User ) <br>
 ✔ Userdel ( VLESS ) ( Premium User ) <br>
 ✔ Userdel ( OVPN ) ( Premium User ) <br>
@@ -106,6 +106,12 @@ Addons Service
 🔸 Port 7200 = BadVPN<br>
 🔸 Port 7300 = BadVPN<br>
 🔸 Port 2907 = Roaming Port <br>
+🔸 Port 8880 = Vless HTTP <br>
+🔸 Port 2095 = Roaming Port <br>
+🔸 Port 1194 = OpenVPN Port TCP <br>
+🔸 Port 2200 = OpenVPN Port UDP <br>
+🔸 Port 444  = OpenVPN Port SSL <br>
+🔸 Port 85   = Apache2 / WebServer <br>
 </b>
 
 ## 🚫 PLEASE READ 🚫
@@ -152,11 +158,28 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 <b> Using Python3 & Curl </b>
 > rm -f setup.py && apt update -y && apt upgrade -y && apt install python3 curl -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py > setup.py && python3 setup.py
 
-## 🔱 PREMIUM USER 🔱
-▶ For Upgrade To Premium User , Contact Me :<br>
-▶ Telegram : https://t.me/wildysheverando<br>
-▶ Whatsapp : https://wa.me/6285830878000<br>
-<b>PLEASE DO NOT USE VOICE CALL & VIDEO CALL</b>
+## 🔱 LICENSE KEY 🔱
+<b>License Key Price</b>
+<br>
+<b>
+Limit 5 VPS Install 
+▶ 1 Months = Rp. 20,000 ( Indonesia Payment ) Or ( 2$ Paypal Payment ) [ Max Install On 5 VPS ]
+▶ 2 Months = Rp. 30,000 ( Indonesia Payment ) Or ( 3$ Paypal Payment ) [ Max Install On 5 VPS ]
+▶ 3 Months = Rp. 40,000 ( Indonesia Payment ) Or ( 4$ Paypal Payment ) [ Max Install On 5 VPS ]
+▶ Lifetime = Rp. 100,000 ( Indonesia Payment ) Or ( 10$ Paypal Payment ) [ Max Install On 5 VPS ]
+  <br>
+Unlimited VPS Install
+▶ 1 Months = Rp. 40,000 ( Indonesia Payment ) Or ( 4$ Paypal Payment ) [ Unlimited Install ]
+▶ 2 Months = Rp. 60,000 ( Indonesia Payment ) Or ( 6$ Paypal Payment ) [ Unlimited Install ]
+▶ 3 Months = Rp. 80,000 ( Indonesia Payment ) Or ( 8$ Paypal Payment ) [ Unlimited Install ]
+▶ Lifetime = Rp. 200,000 ( Indonesia Payment ) Or ( 20$ Paypal Payment ) [ Unlimited Install ]
+</b>
+<b>
+Telegram = https://t.me/wildyvpn
+Whatsapp = https://wa.me/6285830878000
+Email    = wildyverando.net@gmail.com
+</b>
+<br>
 
 ## ➕ DONATION ➕
 <b>If you want to help develop this project, you can donate as sincere as possible</b>
