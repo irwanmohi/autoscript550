@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-WildySheverando VPN Script Version 3.0
+WildySheverando VPN Script Version 5.0.1
 <h2><hr>
 <!---- © Copyright 2021 By Wildy Sheverando ------>
 <h3 align="center">
@@ -74,6 +74,20 @@ Addons Service
 ✔ Bandwidth Usage From Boot Checking<br>
 ✔ ISP Detail Checking<br>
 ✔ AutoExpired SSH User On 01:00 ( WIB / Indonesian - Jakarta Time )<br>
+✔ Speed Limiting ( Premium User )<br>
+✔ Backup ALL Service ( Premium User )<br>
+✔ Restore ALL Service ( Premium User )<br>
+✔ VLESS TCP ( Premium User )<br>
+✔ VLESS WS( Premium User )<br>
+✔ VLESS XTLS ( Not Stable ) ( Premium User ) <br>
+✔ OpenVPN TCP ( Premium User )<br>
+✔ OpenVPN UDP ( Premium User ) <br>
+✔ OpenVPN SSL ( Premium User ) <b>
+✔ Change Host / Domain For V2Ray / Trojan ( Premium User ) <br>
+✔ Userdel ( VLESS ) ( Premium User ) <br>
+✔ Userdel ( OVPN ) ( Premium User ) <br>
+✔ useradd ( VLESS ) ( Premium User ) <br>
+✔ useradd ( OVPN ) ( Premium User ) <br>
 </b>
 
 ## 🔰 Port Information 🔰
