@@ -160,7 +160,7 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 
 ## 🔱 LICENSE KEY 🔱
 <g3>List Of License Key Price</h3>
-<b>
+<b><br>
 Limit 5 VPS Install <br>
 ▶ 1 Months = Rp. 20,000 ( Indonesia Payment ) Or ( 2$ Paypal Payment ) [ Max Install On 5 VPS ]<br>
 ▶ 2 Months = Rp. 30,000 ( Indonesia Payment ) Or ( 3$ Paypal Payment ) [ Max Install On 5 VPS ]<br>
@@ -173,9 +173,8 @@ Unlimited VPS Install<br>
 ▶ 3 Months = Rp. 80,000 ( Indonesia Payment ) Or ( 8$ Paypal Payment ) [ Unlimited Install ]<br>
 ▶ Lifetime = Rp. 200,000 ( Indonesia Payment ) Or ( 20$ Paypal Payment ) [ Unlimited Install ]<br>
 </b>
-<h3>Contact Me To Order The License Key </h3>
-<br>
 <b>
+<h3>Contact Me To Order The License Key </h3>
 Telegram = https://t.me/wildyvpn<br>
 Whatsapp = https://wa.me/6285830878000<br>
 Email    = wildyverando.net@gmail.com<br>
