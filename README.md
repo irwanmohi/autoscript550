@@ -162,22 +162,22 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 <b>License Key Price</b>
 <br>
 <b>
-Limit 5 VPS Install 
-▶ 1 Months = Rp. 20,000 ( Indonesia Payment ) Or ( 2$ Paypal Payment ) [ Max Install On 5 VPS ]
-▶ 2 Months = Rp. 30,000 ( Indonesia Payment ) Or ( 3$ Paypal Payment ) [ Max Install On 5 VPS ]
-▶ 3 Months = Rp. 40,000 ( Indonesia Payment ) Or ( 4$ Paypal Payment ) [ Max Install On 5 VPS ]
-▶ Lifetime = Rp. 100,000 ( Indonesia Payment ) Or ( 10$ Paypal Payment ) [ Max Install On 5 VPS ]
+Limit 5 VPS Install <br>
+▶ 1 Months = Rp. 20,000 ( Indonesia Payment ) Or ( 2$ Paypal Payment ) [ Max Install On 5 VPS ]<br>
+▶ 2 Months = Rp. 30,000 ( Indonesia Payment ) Or ( 3$ Paypal Payment ) [ Max Install On 5 VPS ]<br>
+▶ 3 Months = Rp. 40,000 ( Indonesia Payment ) Or ( 4$ Paypal Payment ) [ Max Install On 5 VPS ]<br>
+▶ Lifetime = Rp. 100,000 ( Indonesia Payment ) Or ( 10$ Paypal Payment ) [ Max Install On 5 VPS ]<br>
   <br>
-Unlimited VPS Install
-▶ 1 Months = Rp. 40,000 ( Indonesia Payment ) Or ( 4$ Paypal Payment ) [ Unlimited Install ]
-▶ 2 Months = Rp. 60,000 ( Indonesia Payment ) Or ( 6$ Paypal Payment ) [ Unlimited Install ]
-▶ 3 Months = Rp. 80,000 ( Indonesia Payment ) Or ( 8$ Paypal Payment ) [ Unlimited Install ]
-▶ Lifetime = Rp. 200,000 ( Indonesia Payment ) Or ( 20$ Paypal Payment ) [ Unlimited Install ]
+Unlimited VPS Install<br>
+▶ 1 Months = Rp. 40,000 ( Indonesia Payment ) Or ( 4$ Paypal Payment ) [ Unlimited Install ]<br>
+▶ 2 Months = Rp. 60,000 ( Indonesia Payment ) Or ( 6$ Paypal Payment ) [ Unlimited Install ]<br>
+▶ 3 Months = Rp. 80,000 ( Indonesia Payment ) Or ( 8$ Paypal Payment ) [ Unlimited Install ]<br>
+▶ Lifetime = Rp. 200,000 ( Indonesia Payment ) Or ( 20$ Paypal Payment ) [ Unlimited Install ]<br>
 </b>
 <b>
-Telegram = https://t.me/wildyvpn
-Whatsapp = https://wa.me/6285830878000
-Email    = wildyverando.net@gmail.com
+Telegram = https://t.me/wildyvpn<br>
+Whatsapp = https://wa.me/6285830878000<br>
+Email    = wildyverando.net@gmail.com<br>
 </b>
 <br>
 
