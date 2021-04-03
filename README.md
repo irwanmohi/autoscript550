@@ -159,8 +159,9 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 > rm -f setup.py && apt update -y && apt upgrade -y && apt install python3 curl -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py > setup.py && python3 setup.py
 
 ## 🔱 LICENSE KEY 🔱
-<g3>List Of License Key Price</h3>
-<b><br>
+<b>
+<h3>List Of License Key Price</h3>
+<br>
 Limit 5 VPS Install <br>
 ▶ 1 Months = Rp. 20,000 ( Indonesia Payment ) Or ( 2$ Paypal Payment ) [ Max Install On 5 VPS ]<br>
 ▶ 2 Months = Rp. 30,000 ( Indonesia Payment ) Or ( 3$ Paypal Payment ) [ Max Install On 5 VPS ]<br>
