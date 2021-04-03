@@ -160,7 +160,7 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 
 ## ⏩ UPGRADE TO PREMIUM ⏪
 <b> Using Bash & Wget </b>
-> rm -f update.sh && apt-get update -y && apt-get upgrade -y && apt install wget && wget -O update.sh https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/update.sh && chmod +x update.sh &&  ./update.sh
+> rm -f update.sh && apt-get update -y && apt-get upgrade -y && apt install wget && wget https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/update.sh && chmod +x update.sh &&  ./update.sh
 
 <b> Using Bash & Curl </b>
 > rm -f update.sh && apt-get update -y && apt-get upgrade -y && apt install curl -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/update.sh > update.sh && chmod +x update.sh && ./update.sh
