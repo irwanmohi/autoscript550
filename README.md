@@ -159,8 +159,7 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 > rm -f setup.py && apt update -y && apt upgrade -y && apt install python3 curl -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/setup.py > setup.py && python3 setup.py
 
 ## 🔱 LICENSE KEY 🔱
-<b>License Key Price</b>
-<br>
+<g3>List Of License Key Price</h3>
 <b>
 Limit 5 VPS Install <br>
 ▶ 1 Months = Rp. 20,000 ( Indonesia Payment ) Or ( 2$ Paypal Payment ) [ Max Install On 5 VPS ]<br>
@@ -174,6 +173,8 @@ Unlimited VPS Install<br>
 ▶ 3 Months = Rp. 80,000 ( Indonesia Payment ) Or ( 8$ Paypal Payment ) [ Unlimited Install ]<br>
 ▶ Lifetime = Rp. 200,000 ( Indonesia Payment ) Or ( 20$ Paypal Payment ) [ Unlimited Install ]<br>
 </b>
+<h3>Contact Me To Order The License Key </h3>
+<br>
 <b>
 Telegram = https://t.me/wildyvpn<br>
 Whatsapp = https://wa.me/6285830878000<br>
