@@ -189,4 +189,4 @@ Email    = wildyverando.net@gmail.com<br>
 ▶ Dana   : 0858-3087-8000<br>
 </b>
 
-# &copy Copyright 2021 By WildySheverando
+# © Copyright 2021 By WildySheverando
