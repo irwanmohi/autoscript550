@@ -5,7 +5,10 @@
 clear
 
 # Make Sure For Accept 
-read -p "Are You Sure Wanna to Change User to Root ? ( Please Enter If Sure Or Ctrl + C For Cancel ) : " 99099898989898989899889128928198912892189892189128912
+read -p "Are You Sure Wanna to Change User to Root ? ( Please Enter If Sure Or Ctrl + C For Cancel ) : "
+
+# Accepted Command
+echo "Accepted "
 
 # Clear
 clear
