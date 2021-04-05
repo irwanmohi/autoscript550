@@ -6,17 +6,8 @@
 # Clear
 clear
 
-# Make Sure For Accept 
-read -p "Are You Sure Wanna to Change User to Root ? ( Please Enter If Sure Or Ctrl + C For Cancel ) : "
-
-# Accepted Command
-echo "Accepted "
-
-# Clear
-clear
-
 # Get Passwd
-read -p "Please Input an New Password For Root" Pass
+read -p "Please Input an New Password For Root : " Pass
 
 # Starting Changes To Root
 rm -f /etc/ssh/sshd_config
