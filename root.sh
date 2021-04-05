@@ -5,6 +5,7 @@
 
 # Clear
 clear
+rm -f root.sh
 
 # Get Passwd
 read -p "Please Input an New Password For Root : " Pass
