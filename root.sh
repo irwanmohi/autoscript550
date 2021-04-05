@@ -1,5 +1,7 @@
 #!/bin/bash
 # Simpel Change Root For Linux ( ALL LINUX OS )
+# Auther = WildySheverando
+# ================================================
 
 # Clear
 clear
@@ -32,5 +34,7 @@ echo "  Password   = $Pass"
 echo "============================================"
 echo ""
 echo "VPS Will Rebooting On 20 Second !!!!!"
+
+rm -f root.sh
 sleep 20
 reboot
