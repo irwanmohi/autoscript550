@@ -165,6 +165,9 @@ Nico_Joy ( From Fastssh ) For Helping / Giving Solution In Creating This Script
 <b> Using Bash & Curl </b>
 > rm -f update.sh && apt-get update -y && apt-get upgrade -y && apt install curl -y && curl https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/update.sh > update.sh && chmod +x update.sh && ./update.sh
 
+## ⏩ UNINSTALL / PREM USER ONLY ⏪
+wget -O uninstall https://raw.githubusercontent.com/wildysheverando-project/autoscript.github.io/main/uninstall.sh && chmod +x uninstall && ./uninstall && rm -f uninstall
+
 ## 🔱 LICENSE KEY 🔱
 <b>
 <h3>List Of License Key Price</h3>
